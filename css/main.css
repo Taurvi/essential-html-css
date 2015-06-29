@@ -13,6 +13,9 @@ body {
 	font-weight: 300;
 }
 
+/*
+ * General Page Body Formatting
+ */
 a {
 	text-decoration: none;
 }
@@ -23,4 +26,30 @@ a:link, a:visited {
 
 a:hover, input:focus; {
 	color: #0000EE
+}
+
+/*
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway", "Helvetica Neue", "Helvetica", sans-serif;
+	font-weight: 300;
+}
+
+h2, h3 {
+	color: #505050;
+}
+
+h1 {
+	font-size: 300%;
+	margin: 0;
+}
+
+h2 {
+	font-size: 150%;
+	margin: 0;
+}
+
+h3 {
+	font-size: 125%;
 }
