@@ -63,6 +63,26 @@ h3 {
  	opacity: 0.9;
  }
 
+ header, #general-info, #menu, #about, footer {
+ 	padding: 1em;
+ }
+
+/*
+ * Page Header
+ */
+ header {
+ 	background-color: #FA5A0F;
+ 	border-bottom: solid 5px #EA4A00;
+ 	color: #FFFFFF;
+ }
+
+ #tagline {
+ 	font-size: 120%;
+ 	color: #EEEEEE;
+ 	margin: 0;
+ }
+
+
 /*
  * Restaurant Info Section
  */
