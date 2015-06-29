@@ -63,6 +63,9 @@ h3 {
  	opacity: 0.9;
  }
 
+ /*
+ * Handles 1em padding for Page Header, Restaurant Info, Menu, About Us, and Footer sections
+ */
  header, #general-info, #menu, #about, footer {
  	padding: 1em;
  }
@@ -84,8 +87,18 @@ h3 {
 
 
 /*
- * Restaurant Info Section
+ * Menu Section
  */
- #general-info {
- 	padding: 1em;
- }
+#menu {
+	background-color: rgba(207, 205, 140, 0.5);
+}
+
+dt {
+	font-weight: 400;
+}
+
+dd {
+	font-size: 80%;
+	font-style: italic;
+	margin: 0, 0, 1em, 1em;
+}
