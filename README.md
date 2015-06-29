@@ -1,5 +1,5 @@
 #essential-html-css
-==================
+-------------------
 
 ##About
 This is a project for Mike Freeman's INFO 343 class for Summer 2015. The assignment was to use our knowledge of HTML and CSS to create a website for a fictional pizza company, Dawg Pizza. 
