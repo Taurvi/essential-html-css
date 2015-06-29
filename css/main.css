@@ -53,3 +53,10 @@ h2 {
 h3 {
 	font-size: 125%;
 }
+
+/*
+ * Restaurant Info Section
+ */
+ #general-info {
+ 	padding: 1em;
+ }
